@@ -14,4 +14,4 @@ EXPOSE 8080
 
 USER 1001
 
-CMD [ "/usr/libexec/s2i/usage" ]
+CMD [ "/usr/libexec/s2i/run" ]
